@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: 
-- Live Site URL: 
+- Live Site URL: https://nainpreet-05.github.io/social-proof-section-challenge/
 
 ## My process
 
